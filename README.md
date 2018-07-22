@@ -6,3 +6,7 @@ I am making a project at CSSI
 
 This is a section, I can put words in this section to describe my project
 I made a change.
+
+# My GITHUB section
+
+A new line
